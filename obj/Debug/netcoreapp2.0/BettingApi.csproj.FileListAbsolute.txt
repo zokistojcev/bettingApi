@@ -1,0 +1,11 @@
+c:\users\saso\source\repos\BettingApi\bin\Debug\netcoreapp2.0\BettingApi.deps.json
+c:\users\saso\source\repos\BettingApi\bin\Debug\netcoreapp2.0\BettingApi.runtimeconfig.json
+c:\users\saso\source\repos\BettingApi\bin\Debug\netcoreapp2.0\BettingApi.runtimeconfig.dev.json
+c:\users\saso\source\repos\BettingApi\bin\Debug\netcoreapp2.0\BettingApi.dll
+c:\users\saso\source\repos\BettingApi\obj\Debug\netcoreapp2.0\BettingApi.csprojAssemblyReference.cache
+c:\users\saso\source\repos\BettingApi\obj\Debug\netcoreapp2.0\BettingApi.csproj.CoreCompileInputs.cache
+c:\users\saso\source\repos\BettingApi\obj\Debug\netcoreapp2.0\BettingApi.AssemblyInfoInputs.cache
+c:\users\saso\source\repos\BettingApi\obj\Debug\netcoreapp2.0\BettingApi.AssemblyInfo.cs
+C:\Users\saso\source\repos\BettingApi\bin\Debug\netcoreapp2.0\BettingApi.pdb
+C:\Users\saso\source\repos\BettingApi\obj\Debug\netcoreapp2.0\BettingApi.dll
+C:\Users\saso\source\repos\BettingApi\obj\Debug\netcoreapp2.0\BettingApi.pdb
